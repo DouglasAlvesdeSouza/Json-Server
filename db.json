@@ -1,0 +1,84 @@
+{
+  "Livros": [
+    {
+      "id": 1,
+      "Título": "Sapiens - Uma Breve História da Humanidade",
+      "Autor": "Yuval Noah Harari",
+      "Páginas": "472",
+      "Valor": "37.90"
+    },
+    {
+      "id": 2,
+      "Título": "A raiva não educa. A calma educa.",
+      "Autor": " Maya Eigenmann",
+      "Páginas": "176",
+      "Valor": "30.99"
+    },
+    {
+      "id": 3,
+      "Título": "Quem tem medo dos evangélicos?",
+      "Autor": "Gutierrez Fernandes Siqueira",
+      "Páginas": "128",
+      "Valor": "32.90"
+    },
+    {
+      "id": 4,
+      "Título": "A história de Sojourner TRUTH, a escrava do Norte",
+      "Autor": "Olive Gilbert",
+      "Páginas": "128",
+      "Valor": "11.99"
+    }
+  ],
+  "Livraria": [
+    {
+      "id:": 1,
+      "bairro": "Humaitá",
+      "horario": "Comercial",
+      "Feriados e finais de semana": "Aberto"
+    },
+    {
+      "id:": 2,
+      "bairro": "Laranjeiras",
+      "horario": "Comercial",
+      "Feriados e finais de semana": "Aberto"
+    },
+    {
+      "id:": 3,
+      "bairro": "Riachuelo",
+      "horario": "Comercial",
+      "Feriados e finais de semana": "Fechado"
+    },
+    {
+      "id:": 4,
+      "bairro": "Méier",
+      "horario": "Comercial",
+      "Feriados e finais de semana": "9 ás 15"
+    }
+  ],
+  "Receita": [
+    {
+      "id:": 1,
+      "Mensal": "52.900",
+      "Vendas": "780",
+      "Lucro": "33.570"
+    },
+    {
+      "id:": 2,
+      "Mensal": "63.758",
+      "Vendas": "820",
+      "Lucro": "41.800"
+    },
+    {
+      "id:": 3,
+      "Mensal": "33.280",
+      "Vendas": "350",
+      "Lucro": "15.671"
+    },
+    {
+      "id:": 4,
+      "Mensal": "157.650",
+      "Vendas": "2.100",
+      "Lucro": "92.410"
+    }
+  ]
+}
